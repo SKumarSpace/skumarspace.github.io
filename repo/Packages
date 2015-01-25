@@ -9,7 +9,6 @@ Size: 745380
 Installed-Size: 2640
 MD5sum: 6263def31200fd3d78e5b92f288885f1
 Description: An awesome MobileSubstrate tweak!
-Depiction: http://skumarspace.github.io/repo/deepcove/index.html
 author: Shrey S. Kumar
 name: Deepcove
 
@@ -24,7 +23,6 @@ Size: 24078
 Installed-Size: 188
 MD5sum: 4177274ae8a36c53928cee7f59cdb264
 Description: An awesome MobileSubstrate tweak!
-Depiction: http://skumarspace.github.io/repo/interstellar/index.html
 author: Shrey S. Kumar
 name: Interstellar
 
