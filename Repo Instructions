@@ -1,6 +1,0 @@
-1) dpkg-scanpackages debs_public /> Packages
-2) gzip -f Packages
-
-Private
-dpkg-scanpackages debs_private /> Packages
-dpkg-scanpackages debs_public /> NoPackages
